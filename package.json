@@ -1,0 +1,19 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "Node Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmalya-dev/Node-Practice.git"
+  },
+  "author": "Nirmalya Kundu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirmalya-dev/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/nirmalya-dev/Node-Practice#readme"
+}
